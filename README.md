@@ -1,6 +1,6 @@
 # DICOM Image Processing and Segmentation using YOLOv8 Instance Segmentation
 
-![Project Logo](project_logo.png)
+![Project Logo](results.jpeg)
 
 Welcome to the DICOM Image Processing and Segmentation project using the YOLOv8 Instance Segmentation model! This project aims to demonstrate how to process DICOM medical images and perform instance segmentation using the YOLOv8 deep learning model.
 
