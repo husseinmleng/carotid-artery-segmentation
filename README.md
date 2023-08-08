@@ -39,7 +39,7 @@ You can install these requirements using the provided `requirements.txt` file.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/dicom-yolov8-segmentation.git
+   git clone https://github.com/husseinmleng/carotid-artery-segmentation.git
    ```
 
 2. Change into the project directory:
